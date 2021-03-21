@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/out/production/3_SAP_CardGame/
+/out/test/3_SAP_CardGame/
